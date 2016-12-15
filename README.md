@@ -10,3 +10,5 @@ standard mäßig scheint
  eingestellt zu sein.
         aber im previev mode sind alle Zeilenumbrüche ignoriert zu werden
  x
+ Der Zeilenumbruch scheint jetzt klar zu sein
+ aber das merge pull request sccheine ich übersehen zu haben
